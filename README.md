@@ -1,6 +1,23 @@
-# 💫 About Me:
-const decoratedMarkdown = `<br>╔════════════════════════════════════════════╗<br>║                                            ║<br>║   🎉 **Vũ Gia Minh**                      ║<br>║   🌟 aka **VHMing**                       ║<br>║   💬 Pronouns: **he/him**                 ║<br>║   🎂 Age: **16** years old                ║<br>║   💔 Relationship Status: **single**      ║<br>║                                            ║<br>╚════════════════════════════════════════════╝<br>`;<br>console.log(decoratedMarkdown);
 
+
+## </> My code:
+```
+const AboutMe = `
+╔════════════════════════════════════════════╗
+║                                            ║
+║    Name         : **Vũ Gia Minh**          ║
+║                   aka **VHMing**           ║
+║    Pronouns     : **he/him**               ║
+║    Age          : **16** years old         ║
+║    Relationship : **Like a girl...**       ║
+║                                            ║
+╚════════════════════════════════════════════╝`;
+```
+## 🐞 Debug
+> console.log(AboutMe);
+
+[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&size=17&duration=2500&pause=1000&color=90E4CD&vCenter=true&width=435&lines=%F0%9F%8E%89+My+name%3A+V%C5%A9+Gia+Minh+%F0%9F%8E%89;%F0%9F%8E%89+aka+%22VHMing%22+%F0%9F%8E%89;%F0%9F%92%AC+Pronouns%3A+he%2Fhim+%F0%9F%92%AC;%F0%9F%8E%82+Age%3A+16+years+old+%F0%9F%8E%82;%F0%9F%92%96+Relationship+%3A+Like+a+girl...+%F0%9F%92%96" alt="Typing SVG" /></a>
+](https://readme-typing-svg.herokuapp.com/demo/?font=Patrick+Hand&size=23&duration=2500&color=90E4CD&vCenter=true&lines=%F0%9F%8E%89+My+name%3A+V%C5%A9+Gia+Minh+%F0%9F%8E%89;%F0%9F%8E%89+aka+%22VHMing%22+%F0%9F%8E%89;%F0%9F%92%AC+Pronouns%3A+he%2Fhim+%F0%9F%92%AC;%F0%9F%8E%82+Age%3A+16+years+old+%F0%9F%8E%82;%F0%9F%92%96+Relationship+%3A+Like+a+girl...+%F0%9F%92%96)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/pzyc) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/vhming) 
