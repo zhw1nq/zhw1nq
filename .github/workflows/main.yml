@@ -1,2 +1,17 @@
-              - name: generate-snake-game-from-github-contribution-grid
-                uses: Platane/snk@v3.2.0
+name: Generate Snake Game
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Game
+        uses: Platane/snk@v3.2.0
