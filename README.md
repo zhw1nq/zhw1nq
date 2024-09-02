@@ -8,7 +8,7 @@ const AboutMe = `
 ║    Name         : **Vũ Gia Minh**          ║
 ║                   aka **VHMing**           ║
 ║    Pronouns     : **he/him**               ║
-║    Age          : **16** years old         ║
+║    Age          : **18** years old         ║
 ║    Relationship : **Like a girl...**       ║
 ║                                            ║
 ╚════════════════════════════════════════════╝`;
