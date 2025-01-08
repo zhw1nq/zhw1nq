@@ -18,7 +18,7 @@ const AboutMe = `
 ](https://readme-typing-svg.herokuapp.com/demo/?font=Patrick+Hand&size=23&duration=2500&color=90E4CD&vCenter=true&lines=%F0%9F%8E%89+My+name%3A+V%C5%A9+Gia+Minh+%F0%9F%8E%89;%F0%9F%8E%89+aka+%22VHMing%22+%F0%9F%8E%89;%F0%9F%92%AC+Pronouns%3A+he%2Fhim+%F0%9F%92%AC;%F0%9F%8E%82+Age%3A+16+years+old+%F0%9F%8E%82;%F0%9F%92%96+Relationship+%3A+Like+a+girl...+%F0%9F%92%96)
 
 ## 🏢 Contributions:
-![snake gif](https://raw.githubusercontent.com/vhm1ng/vhm1ng/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/zhw1nq/zhw1nq/output/github-contribution-grid-snake-dark.svg)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/pzyc) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/vhming) 
@@ -30,17 +30,17 @@ const AboutMe = `
 ### 💤 DESIGN Stack
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vhm1ng&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vhm1ng&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vhm1ng&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=zhw1nq&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zhw1nq&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhw1nq&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vhm1ng&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=zhw1nq&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vhm1ng&icon=10&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zhw1nq&icon=10&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
