@@ -97,6 +97,16 @@ const vhming = {
 
 <div align="center">
   
+![Snake animation](https://raw.githubusercontent.com/zhw1nq/zhw1nq/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zhw1nq&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF)](https://github.com/zhw1nq)
 
 </div>
