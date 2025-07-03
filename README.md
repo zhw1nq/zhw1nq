@@ -1,8 +1,10 @@
-# 👋 Hi there, I'm VHMing!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=你好%20Tớ%20là%20VHMing!&reversal=false&textBg=false&fontAlignY=49&animation=fadeIn&section=header&fontSize=30&fontColor=FFFFFF"/>
+</div>
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Things+%F0%9F%93%9A;Building+Amazing+Projects+%E2%9C%A8)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&duration=2000&pause=1500&color=FFC0CB&center=true&vCenter=true&random=true&width=435&lines=Code+kh%C3%B4ng+%C4%91%C6%B0%E1%BB%A3c+th%C3%AC+%C4%91%C3%B3+l%C3%A0+t%C3%ADnh+n%C4%83ng.;Code+%C4%91%C3%A3+ch%E1%BA%A1y+th%C3%AC+%C4%91%E1%BB%ABng+t%E1%BA%AFt+m%C3%A1y;L%E1%BB%97i+%E1%BB%9F+%C4%91%C3%A2u+Comment+%E1%BB%9F+%C4%91%E1%BA%A5y.;H%C3%A3y+commit+.env+l%C3%AAn+github+%3C3;T%C3%ADnh+n%C4%83ng+m%E1%BB%9Bi+th%C3%AC+3110311099+TECHCOMBANK;H%C3%A3y+%E1%BA%A9n+Output+Logs+khi+compile+%C4%91%E1%BB%83+tr%C3%A1nh+%C4%91au+m%E1%BA%AFt)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,14 +16,17 @@
 const vhming = {
   name: "Vũ Gia Minh",
   username: "VHMing",
+  nickname: "zhw1nq",
   pronouns: "he/him",
   age: 18,
   location: "Vietnam 🇻🇳",
-  status: "Passionate Developer 💻",
-  
-  currentlyLearning: ["TypeScript", "Next.js", "Cloud Architecture"],
-  hobbies: ["Coding", "Design", "Photography", "Gaming"],
-  funFact: "I love turning coffee into code! ☕➡️💻"
+  status: "Passionate Developer 💻 | Game Plugin Developer 🎮 | Gái Cosplay Enthusiast 💋",
+
+  currentlyLearning: ["TypeScript", "Next.js", "Cloud Architecture", "CounterStrikeSharp"],
+  hobbies: ["Coding", "Design", "Gaming", "Chụp gái cosplay", "Nghỉ ngơi sau những cú debug toang"],
+  funFact: "Thích biến trà sữa thành code, gái cosplay thành động lực! ☕💻🔥",
+  favoriteThings: ["Gái mặc đồ hầu gái", "Gái có tai mèo", "Gái biết code càng tốt 😉"],
+  gamesDeveloped: ["CS2 Plugins", "CS:GO Plugins", "GTA V Scripts"]
 };
 ```
 
@@ -29,11 +34,15 @@ const vhming = {
 
 ## 🚀 What I'm Up To
 
-- 🔭 Working on **full-stack web applications**
-- 🌱 Learning **advanced React patterns** and **cloud technologies**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **JavaScript, TypeScript, React, Node.js**
-- ⚡ Fun fact: **I debug with console.log() and I'm not ashamed!**
+- 🔭 Đang phát triển **CounterStrikeSharp plugins cho CS2**
+- 🧠 Dev toàn bộ hệ thống cho **máy chủ 7-Màu Community** tại Việt Nam 🇻🇳
+- 🔥 Triển khai máy chủ **HvH (Hack vs Hack)** quy mô lớn tại **Trung Quốc 🇨🇳**
+- 🎮 Viết plugins **SourcePawn cho CSGO** (giai đoạn 2022–2023)
+- 🌱 Học thêm về **React nâng cao** và **các hạ tầng nâng cao**
+- 🎯 Tạo **chế độ chơi tùy biến**, thêm tính năng độc lạ cho game loz
+- 💬 Có thể hỏi tớ về: **JavaScript, TypeScript, React, Node.js, Phát triển Game**
+- 💸 Đang hoạt động với vai trò **Seller Neverlose tại Việt Nam**
+- ⚡ Fun fact: **Từng mất 3 tiếng chỉ để fix 1 dấu `;`... và vẫn tái phạm như thường.** 🥲
 
 ---
 
@@ -68,6 +77,13 @@ const vhming = {
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
+### 🎮 Game Development & Scripting
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SourcePawn](https://img.shields.io/badge/SourcePawn-FF6600?style=for-the-badge&logo=sourcemod&logoColor=white)
+![Source 2](https://img.shields.io/badge/Source%202-000000?style=for-the-badge&logo=valve&logoColor=white)
+![CounterStrikeSharp](https://img.shields.io/badge/CounterStrikeSharp-FF6B35?style=for-the-badge&logo=counter-strike&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
 ### 🎨 Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -79,55 +95,52 @@ const vhming = {
 
 ---
 
+## 🎮 Kinh Nghiệm Phát Triển Game
+
+### 🔫 Phát Triển Counter-Strike
+- **Dev Plugin CS2** với CounterStrikeSharp (ngôn ngữ C#)
+- **Dev Plugin CSGO** sử dụng SourcePawn
+- Đã tạo các chế độ chơi tùy chỉnh, hệ thống anti-cheat, và công cụ quản lý server
+
+### 🚗 Phát Triển GTA V
+- **Dev với Framework ESX** – Tạo các job tùy chỉnh, hệ thống doanh nghiệp, và cơ chế gameplay riêng
+- **Dev với Framework QBCore** – Xây dựng hệ thống roleplay nâng cao và tính năng độc quyền
+- **Chuyên Lua Script** – Tập trung vào phát triển server FiveM toàn diện
+
+---
+
+## 🌸 Anime Corner | アニメコーナー
+
+<div align="center">
+  
+*"People's dreams... never end!" - Marshall D. Teach*  
+*"I'm not going there to die. I'm going to find out if I'm really alive." - Spike Spiegel*
+
+</div>
+
+---
+
+## 🖼️ Artwork Gallery
+
+<div align="center">
+  
+<img src="https://images.steamusercontent.com/ugc/2431467623665070985/CD26C6A9BD1DEBBC0DDFC0F39061C906189B2E61/" width="150" alt="Artwork 1"/>
+<img src="https://images.steamusercontent.com/ugc/2431467623665072532/CC2A34F48D243B91B43A2F3FB2B529BAA3BFE722/" width="150" alt="Artwork 2"/>
+<img src="https://images.steamusercontent.com/ugc/2431467623665074374/60AA1235D1D73B4AB697325353EA1139A2A9A089/" width="150" alt="Artwork 3"/>
+<img src="https://images.steamusercontent.com/ugc/2431467623665075746/91321B6B5BD8C3BD2484E8E800227E252460F9DB/" width="150" alt="Artwork 4"/>
+<img src="https://images.steamusercontent.com/ugc/2431467623665076840/8D6F1BB9975676E1DD0B28CC13674F7D012009E6/" width="150" alt="Artwork 5"/>
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
   
 ![VHMing's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhw1nq&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=00D4AA&title_color=00D4AA&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhw1nq&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhw1nq&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)
-
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/zhw1nq/zhw1nq/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zhw1nq&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF)](https://github.com/zhw1nq)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zhw1nq&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
-
-</div>
-
----
-
-## 📈 Recent Activity
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhw1nq&repo=zhw1nq&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)](https://github.com/zhw1nq/zhw1nq)
 
 </div>
 
@@ -147,35 +160,15 @@ const vhming = {
 
 ---
 
-## 💭 Random Dev Quote
-
-<div align="center">
-  
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
-
-</div>
-
----
-
-## 🎵 Currently Listening
-
-<div align="center">
-  
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=vhming&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=00d4aa&bar_color_cover=false)](https://open.spotify.com/user/vhming)
-
-</div>
-
----
-
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.32%
-JavaScript   4 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   26.41%
-CSS          2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.15%
-HTML         1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.82%
-JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30%
+C#               5 hrs 30 mins   ████████                    32.35%
+TypeScript       4 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   25.00%
+SourcePawn       3 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   22.06%
+JavaScript       2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.71%
+Lua              1 hr 00 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.88%
 ```
 <!--END_SECTION:waka-->
 
@@ -183,33 +176,19 @@ JSON         5 mins          ░░░░░░░░░░░░░░░░░
 
 <div align="center">
   
-### 💖 Thanks for visiting my profile!
+### 💖 Thanks for visiting my profile! | ありがとうございます！
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=zhw1nq&color=00D4AA&style=for-the-badge&label=VISITORS)
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhw1nq&count_bg=%2300D4AA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
 ⭐️ **If you like my work, please consider giving a star to my repositories!**
 
----
-
-### 🔥 My GitHub Stats Overview
-
-<div align="center">
-  
-| 📊 **This Week I Spent My Time On** | 🚀 **My GitHub Stats** |
-|:----:|:----:|
-| [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=vhming&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)](https://wakatime.com/@vhming) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhw1nq&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=00D4AA&title_color=00D4AA&text_color=FFFFFF&count_private=true)](https://github.com/zhw1nq) |
-
-</div>
-
----
-
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*  
+*"In coding, as in anime, the journey is just as important as the destination!" – VHMing*
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!&fontAlignY=65&fontSize=24&fontColor=FFFFFF&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!%20🌸&fontAlignY=65&fontSize=24&fontColor=FFFFFF&animation=twinkling"/>
 </div>
