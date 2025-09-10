@@ -14,11 +14,7 @@
 
 ```typescript
 const vhming = {
-  name: "Vũ Gia Minh",
-  username: "VHMing",
-  nickname: "zhw1nq",
-  pronouns: "he/him",
-  age: 18,
+  name: "Minh",
   location: "Vietnam 🇻🇳",
   status: "Passionate Developer 💻 | Game Plugin Developer 🎮 | Gái Cosplay Enthusiast 💋",
 
