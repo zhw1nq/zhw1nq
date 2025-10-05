@@ -8,6 +8,12 @@
 
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zhw1nq/zhw1nq/refs/heads/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
