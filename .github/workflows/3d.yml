@@ -1,4 +1,27 @@
-- name: GitHub-Profile-3D-Contrib
-  # You may pin to the exact commit or the version.
-  # uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39
-  uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+name: GitHub Profile 3D Contrib
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # mỗi ngày
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub Profile 3D Contrib
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Generate GitHub Profile 3D Contributions"
