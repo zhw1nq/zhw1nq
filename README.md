@@ -71,7 +71,7 @@ const vhming = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind&theme=dark" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,python,mongodb,mysql,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,mongodb,mysql,postgres&theme=dark" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=firebase,aws,cloudflare,cs,lua,git,github,vscode&theme=dark" />
 </div>
