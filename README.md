@@ -15,7 +15,7 @@
 
 ```typescript
 const vhming = {
-  name: "Minh",
+  fullname: "Vũ Gia Minh",
   location: "Vietnam",
   status: "Developer | Game Plugin Creator",
   learning: ["TypeScript", "Next.js", "SwiftlyS2", "Cloud"],
