@@ -1,0 +1,31 @@
+# Đặt file này tại: .github/workflows/profile-summary-cards.yml
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # chạy mỗi ngày 1 lần
+  workflow_dispatch: # cho phép bấm chạy tay
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Secret tự tạo trong Settings > Secrets and variables > Actions
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 7 # giờ Việt Nam (UTC+7)
+          EXCLUDE: ""
+          AUTO_PUSH: true
+          THEME: "github_dark" # chỉ tạo 1 theme cho gọn repo
+          ANIMATION: "load" # hiệu ứng CSS khi thẻ hiện ra
+          DURATION: ""
+          NAME: ""
